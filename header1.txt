@@ -1,0 +1,14 @@
+from:
+From: Trust Wallet Team <orlando.reid@exprealty.com>
+
+return-path:
+ounces+20995-112b-phishing@pot=hotmail.com@em3017.exprealty.com
+
+
+received path:
+Received: from DM6PR19MB4294.namprd19.prod.outlook.com (::1) by
+Received: from AS9PR07CA0002.eurprd07.prod.outlook.com (2603:10a6:20b:46c::20)
+Received: from AM7EUR06FT032.eop-eur06.prod.protection.outlook.com
+Received: from wrqvdchb.outbound-mail.sendgrid.net (149.72.220.11) by
+Received: by filterdrecv-7fcfd4746d-b69hk with SMTP id filterdrecv-7fcfd4746d-b69hk-1-64FC5223-7C
+Received: from [127.0.0.1] (unknown)
