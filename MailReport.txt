@@ -1,0 +1,21 @@
+#Report#
+
+!from address:
+    spoofed addess is used
+
+!sending ip:
+   149.72.220.11 used by open source mail server(SendGrid) which is spoofed at the server
+
+!SPF :
+  SPF fails
+
+!content:
+   the message uses urgent language with grammer mistakes
+
+!return_path:
+   return path are looking suspicious with "pot=Hotmail"
+
+! link:
+  it as malicious link look lile trusted domin it came some random strings 
+
+
