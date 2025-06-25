@@ -1,9 +1,9 @@
-This repository contains reports on highly suspicious phishing emails.
+This repository contains reports on highly suspicious phishing email.
 
 
 Faking sender addresses
 
-Using unauthorized servers
+Using unauthorized server
 
 Including urgent messages and malicious links
 
